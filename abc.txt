@@ -3,3 +3,8 @@ feature2
 
 
 commit in bugfix
+feature1+bugfix
+feature2
+bugfix2
+
+commit in bugfix2
